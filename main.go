@@ -1,1 +1,7 @@
-package furisha
+package main
+
+import "fmt"
+
+func main()  {
+	fmt.Print("wassssup")
+}
